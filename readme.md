@@ -4,7 +4,7 @@
 [![label](https://img.shields.io/github/issues-raw/badges/shields/website.svg)]()
 [![label](https://img.shields.io/badge/firmware-2.2-green.svg)]()
 
-[![label](https://img.shields.io/badge/Extruder 1-online-green.svg)]()
+[![label](https://img.shields.io/badge/Extruder 1-Offline-lightgrey.svg)]()
 [![label](https://img.shields.io/badge/Extruder 2-Offline-lightgrey.svg)]()
 [![label](https://img.shields.io/badge/Extruder 2-Offline-lightgrey.svg)]()
 
